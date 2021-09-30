@@ -11,3 +11,5 @@ document.addEventListener('click', event => {
     console.log("click");
 
 });
+
+// WINDOW Manipulamos a aplicação.
