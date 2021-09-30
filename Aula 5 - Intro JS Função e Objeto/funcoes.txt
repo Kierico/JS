@@ -1,0 +1,20 @@
+
+
+
+Funções são TRECHOS DE CÓDIGOS que podem ser reutilizados.
+
+Classes agrupa ATRIBUTOS E MÉTODOS no mesmo lugar.
+
+JS é uma linguagem reativa.
+
+RETURN - Encerra a função e retorna um valor.
+
+Função comum, função anônima e arrow function.
+
+callback FUNÇÃO DE RETORNO como parâmetro após uma ação.
+
+Manipulação do DOM:
+    Document Object Model (DOM) a estrutura como o HTML é formado.
+
+EVENTOS Ações realizadas na aplicação que dispara rotinas.
+
