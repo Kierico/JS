@@ -9,7 +9,7 @@ JS é uma linguagem reativa.
 
 RETURN - Encerra a função e retorna um valor.
 
-Função comum, função anônima e arrow function.
+Função comum (expressão de função), função anônima e arrow function.
 
 callback FUNÇÃO DE RETORNO como parâmetro após uma ação.
 
