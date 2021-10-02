@@ -1,0 +1,2 @@
+Classe é o segredo do sucesso.
+Métodos - São ações que serão executadas. "funções"
