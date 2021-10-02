@@ -4,15 +4,7 @@
  * return - Encerra a função e retorna um valor.
  * Conhecido como Argumentos ou PARÂMETROS - são informações que as funções precisam.
  * Argumentos ou Args permitem acessar Parâmetros de uma função.
- */
-
-/* function imc(peso, altura) {
-    return peso / (altura ** 2);
-}
-let pesoAtual = imc(104, 1.87);
-console.log(pesoAtual); */
-
-/**
+ *
  * call back - Função de retorno como parâmetro após uma ação.
  * DOM (Document Object Model) - a estrutura como o HTML é formado.
  * Eventos - Ações realizadas na aplicação que dispara rotinas.
